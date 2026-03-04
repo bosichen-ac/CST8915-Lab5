@@ -9,4 +9,4 @@
 
 ## Demo Video
 
-🎥 [Watch Demo Video(https://youtu.be/Gysp5Rr15HY)
+🎥 [Watch Demo Video](https://youtu.be/Gysp5Rr15HY)
